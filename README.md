@@ -26,7 +26,7 @@ An end-to-end data analytics project analyzing customer shopping behavior using 
 
 The project focuses on identifying purchasing patterns, customer segments, discount usage, subscription behavior, and revenue-related insights.
 
-🔗 [View Project Repository](https://github.com/dhruvwakkar/Customer-Shopping-Behavior-Analysis-Python-MySQL-Power-BI)
+🔗 [View Project Repository]([(https://github.com/dhruvwakkar/Customer-Shopping-Behavior-Analysis)])
 
 ---
 
