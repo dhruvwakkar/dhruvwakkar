@@ -4,17 +4,17 @@
 
 I'm an Electronics & Telecommunication Engineering graduate transitioning into Data Analytics. I enjoy working with data to uncover insights, identify patterns, and support data-driven decision-making.
 
-I'm currently building practical data analytics projects and strengthening my skills in SQL, Python, Excel, Power BI, and data visualization while preparing for entry-level Data Analyst opportunities.
+I have hands-on experience with SQL, Python, Excel, Power BI, and data visualization, and I'm building practical projects to strengthen my analytical and problem-solving skills.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **SQL:** MySQL, Data Cleaning, Data Analysis, Queries
+- **SQL:** MySQL, Data Cleaning, Data Analysis, SQL Queries
 - **Python:** Pandas, NumPy, Matplotlib
-- **Excel:** XLOOKUP/VLOOKUP, Pivot Tables, Charts, Data Cleaning
-- **Power BI:** Data Visualization, Dashboards, Data Analysis
-- **Other:** Data Cleaning, Exploratory Data Analysis, Data Visualization
+- **Excel:** XLOOKUP, VLOOKUP, Pivot Tables, Charts, Data Cleaning
+- **Power BI:** Dashboards, Data Visualization, Data Analysis
+- **Data Analytics:** Data Cleaning, Exploratory Data Analysis, Data Visualization
 
 ---
 
@@ -22,31 +22,43 @@ I'm currently building practical data analytics projects and strengthening my sk
 
 ### Customer Shopping Behavior Analysis
 
-An end-to-end data analytics project analyzing customer shopping behavior using **Python, MySQL, Excel, and Power BI**.
+An end-to-end data analytics project analyzing customer shopping behavior using **Python, MySQL, Excel, SQL, and Power BI**.
 
-The project focuses on identifying purchasing patterns, customer segments, discount usage, subscription behavior, and revenue-related insights.
+The project focuses on identifying:
 
-🔗 [View Project Repository]([(https://github.com/dhruvwakkar/Customer-Shopping-Behavior-Analysis)])
+- Purchasing patterns
+- Customer segments
+- Product performance
+- Discount usage
+- Subscription behavior
+- Revenue trends
+
+**Project Workflow:**
+
+**Raw Dataset → Python Data Cleaning → Excel → MySQL → SQL Analysis → Power BI Dashboard**
+
+🔗 [View Project Repository](https://github.com/dhruvwakkar/Customer-Shopping-Behavior-Analysis)
 
 ---
 
 ## 🎓 Certifications
 
-- Google Data Analytics Professional Certificate – Coursera  
-- 100 Days of Code™: The Complete Python Pro Bootcamp – Udemy  
-- Generative AI Mastermind – Outskill
-- CCNA: Introduction to Networks – CISCO Networking Academy
+- **Google Data Analytics Professional Certificate** – Coursera
+- **100 Days of Code™: The Complete Python Pro Bootcamp** – Udemy
+- **Generative AI Mastermind** – Outskill
+- **CCNA: Introduction to Networks** – Cisco Networking Academy
 
 ---
 
 ## 📚 Currently Learning
 
-- Data Analytics with Python, SQL
+- Advanced SQL
 - Power BI & DAX
 - Data Visualization
 - Exploratory Data Analysis
+- Python for Data Analytics
 - Building real-world Data Analytics projects
-  
+
 ---
 
 ## 🎯 Career Goal
@@ -57,5 +69,5 @@ Currently seeking **entry-level Data Analyst opportunities** where I can apply m
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Dhruv Wakkar](www.linkedin.com/in/dhruvwakkar)
+- **LinkedIn:** [Dhruv Wakkar](https://www.linkedin.com/in/dhruvwakkar/)
 - **Email:** dh.wakkar@gmail.com
