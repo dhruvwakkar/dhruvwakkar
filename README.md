@@ -4,7 +4,7 @@
 
 I'm an Electronics & Telecommunication Engineering graduate transitioning into Data Analytics. I enjoy working with data to uncover insights, identify patterns, and support data-driven decision-making.
 
-I have hands-on experience with SQL, Python, Excel, Power BI, and data visualization, and I'm building practical projects to strengthen my analytical and problem-solving skills.
+I have hands-on experience with Python, Excel, Power BI, SQL and data visualization, and I'm building practical projects to strengthen my analytical and problem-solving skills.
 
 ---
 
