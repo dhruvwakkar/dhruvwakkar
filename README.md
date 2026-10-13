@@ -1,6 +1,6 @@
 # Hi, I'm Dhruv Wakkar 👋
 
-### Aspiring Data Analyst | SQL | Python | Excel | Power BI
+### Aspiring Data Analyst | Excel | Python | SQL | Power BI
 
 I'm an Electronics & Telecommunication Engineering graduate transitioning into Data Analytics. I enjoy working with data to uncover insights, identify patterns, and support data-driven decision-making.
 
@@ -18,29 +18,6 @@ I have hands-on experience with SQL, Python, Excel, Power BI, and data visualiza
 
 ---
 
-## 📊 Featured Project
-
-### Customer Shopping Behavior Analysis
-
-An end-to-end data analytics project analyzing customer shopping behavior using **Python, MySQL, Excel, SQL, and Power BI**.
-
-The project focuses on identifying:
-
-- Purchasing patterns
-- Customer segments
-- Product performance
-- Discount usage
-- Subscription behavior
-- Revenue trends
-
-**Project Workflow:**
-
-**Raw Dataset → Python Data Cleaning → Excel → MySQL → SQL Analysis → Power BI Dashboard**
-
-🔗 [View Project Repository](https://github.com/dhruvwakkar/Customer-Shopping-Behavior-Analysis)
-
----
-
 ## 🎓 Certifications
 
 - **Google Data Analytics Professional Certificate** – Coursera
@@ -52,11 +29,11 @@ The project focuses on identifying:
 
 ## 📚 Currently Learning
 
-- Advanced SQL
+- Python for Data Analytics
 - Power BI & DAX
 - Data Visualization
 - Exploratory Data Analysis
-- Python for Data Analytics
+- Advanced SQL
 - Building real-world Data Analytics projects
 
 ---
