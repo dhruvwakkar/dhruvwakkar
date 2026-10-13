@@ -10,10 +10,10 @@ I have hands-on experience with SQL, Python, Excel, Power BI, and data visualiza
 
 ## 🛠️ Skills & Tools
 
-- **SQL:** MySQL, Data Cleaning, Data Analysis, SQL Queries
 - **Python:** Pandas, NumPy, Matplotlib
 - **Excel:** XLOOKUP, VLOOKUP, Pivot Tables, Charts, Data Cleaning
 - **Power BI:** Dashboards, Data Visualization, Data Analysis
+- **SQL:** MySQL, Data Cleaning, Data Analysis, SQL Queries
 - **Data Analytics:** Data Cleaning, Exploratory Data Analysis, Data Visualization
 
 ---
