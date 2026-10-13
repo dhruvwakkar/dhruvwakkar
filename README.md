@@ -8,7 +8,7 @@ I have hands-on experience with Python, Excel, Power BI, SQL and data visualizat
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools:
 
 - **Python:** Pandas, NumPy, Matplotlib
 - **Excel:** XLOOKUP, VLOOKUP, Pivot Tables, Charts, Data Cleaning
@@ -18,7 +18,23 @@ I have hands-on experience with Python, Excel, Power BI, SQL and data visualizat
 
 ---
 
-## 🎓 Certifications
+## 🛠️ Tech Stack:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+## 🎓 Certifications:
 
 - **Google Data Analytics Professional Certificate** – Coursera
 - **100 Days of Code™: The Complete Python Pro Bootcamp** – Udemy
@@ -27,7 +43,21 @@ I have hands-on experience with Python, Excel, Power BI, SQL and data visualizat
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me:
 
 - **LinkedIn:** [Dhruv Wakkar](https://www.linkedin.com/in/dhruvwakkar/)
 - **Email:** dh.wakkar@gmail.com
+
+---
+
+## 🌐 Socials:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhruvwakkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dh.wakkar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
