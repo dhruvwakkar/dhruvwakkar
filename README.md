@@ -8,28 +8,17 @@ I have hands-on experience with Python, Excel, Power BI, SQL and data visualizat
 
 ---
 
-## 🛠️ Skills & Tools:
-
-- **Python:** Pandas, NumPy, Matplotlib
-- **Excel:** XLOOKUP, VLOOKUP, Pivot Tables, Charts, Data Cleaning
-- **Power BI:** Dashboards, Data Visualization, Data Analysis
-- **SQL:** MySQL, Data Cleaning, Data Analysis, SQL Queries
-- **Data Analytics:** Data Cleaning, Exploratory Data Analysis, Data Visualization
-
----
-
 ## 🛠️ Tech Stack:
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
@@ -40,13 +29,6 @@ I have hands-on experience with Python, Excel, Power BI, SQL and data visualizat
 - **100 Days of Code™: The Complete Python Pro Bootcamp** – Udemy
 - **Generative AI Mastermind** – Outskill
 - **CCNA: Introduction to Networks** – Cisco Networking Academy
-
----
-
-## 🤝 Connect With Me:
-
-- **LinkedIn:** [Dhruv Wakkar](https://www.linkedin.com/in/dhruvwakkar/)
-- **Email:** dh.wakkar@gmail.com
 
 ---
 
