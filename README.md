@@ -27,23 +27,6 @@ I have hands-on experience with SQL, Python, Excel, Power BI, and data visualiza
 
 ---
 
-## 📚 Currently Learning
-
-- Python for Data Analytics
-- Power BI & DAX
-- Data Visualization
-- Exploratory Data Analysis
-- Advanced SQL
-- Building real-world Data Analytics projects
-
----
-
-## 🎯 Career Goal
-
-Currently seeking **entry-level Data Analyst opportunities** where I can apply my analytical skills, work with real-world data, and continue growing as a data professional.
-
----
-
 ## 🤝 Connect With Me
 
 - **LinkedIn:** [Dhruv Wakkar](https://www.linkedin.com/in/dhruvwakkar/)
