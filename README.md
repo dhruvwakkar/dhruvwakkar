@@ -35,7 +35,7 @@ I have hands-on experience with Python, Excel, Power BI, SQL and data visualizat
 ## 🌐 Socials:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhruvwakkar/">
+  <a href="[https://www.linkedin.com/in/dhruvwakkar/](https://mail.google.com/mail/u/0/?fs=1&to=dh.wakkar@gmail.com&tf=cm)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:dh.wakkar@gmail.com">
